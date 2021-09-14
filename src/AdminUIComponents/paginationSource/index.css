@@ -1,0 +1,13 @@
+.pageButton {
+  width: 20px;
+  height: 20px;
+  font-size: 12px;
+  border-style: solid;
+  padding: 10px;
+}
+
+.display-setter {
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+}
